@@ -6,17 +6,57 @@
   "redirects": [
     {
       "source": "/recommends/gohighlevel",
-      "destination": "https://www.gohighlevel.com/?fp_ref=example",
+      "destination": "https://www.gohighlevel.com/?fp_ref=stosh61",
       "permanent": false
     },
     {
-      "source": "/recommends/aweber",
-      "destination": "https://aweber.com/?id=example",
+      "source": "/recommends/dealcheck",
+      "destination": "https://dealcheck.io?fp_ref=stosh11",
       "permanent": false
     },
     {
-      "source": "/recommends/kinsta",
-      "destination": "https://kinsta.com/?kaid=example",
+      "source": "/recommends/buildium",
+      "destination": "https://www.buildium.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/carrot",
+      "destination": "https://carrot.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/liondesk",
+      "destination": "https://www.liondesk.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/realestatebees",
+      "destination": "https://www.realestatebees.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/birddogbot",
+      "destination": "https://birddogbot.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/lofty",
+      "destination": "https://www.lofty.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/dotloop",
+      "destination": "https://www.dotloop.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/kvcore",
+      "destination": "https://www.insiderealestate.com/kvcore/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/appfolio",
+      "destination": "https://www.appfolio.com/",
       "permanent": false
     }
   ],
