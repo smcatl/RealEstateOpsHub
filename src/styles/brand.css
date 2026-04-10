@@ -1,0 +1,101 @@
+/*
+ * RealEstateOpsHub — Blueprint Authority (LIGHT)
+ * Cream background, navy + gold accents. Editorial trustworthy feel.
+ * Instrument Serif headings, blueprint grid texture, gold underlines.
+ *
+ * NOTE: this site uses PUBLIC_BRAND_MODE=light. The light-mode.css file
+ * in stackbase handles the surface inversion. This brand.css adds the
+ * blueprint-specific decorative layer on top.
+ */
+
+.site-mark {
+  background: transparent !important;
+  padding: 0 !important;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(20, 17, 14, 0.08);
+}
+.site-mark svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: 2px;
+}
+
+.re-wordmark .nav-logo-text {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  letter-spacing: 0.005em;
+  display: inline-flex;
+  gap: 0.3em;
+  line-height: 1;
+}
+.re-wordmark .logo-word-1 {
+  color: #14110e;
+  font-style: italic;
+}
+.re-wordmark .logo-word-2 {
+  color: #1a2744;
+}
+
+/* Header CTA — gold ink, navy outline */
+.site-nav .nav-cta {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  border: 1px solid #1a2744 !important;
+  color: #1a2744 !important;
+  padding: 0.5rem 1.25rem;
+}
+.site-nav .nav-cta:hover {
+  background: #1a2744;
+  color: #c9a84c !important;
+}
+
+/* Section labels — gold smallcaps */
+.section-label {
+  color: #c9a84c;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-weight: 600;
+}
+
+/* Headings — Instrument Serif, navy */
+h1, h2, h3,
+.section-title {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-weight: 400;
+  color: #14110e;
+  letter-spacing: -0.005em;
+}
+
+/* Gold underline accent under section titles */
+.section-title::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 2px;
+  background: #c9a84c;
+  margin-top: 1rem;
+}
+
+/* Editorial drop cap on first paragraph */
+.prose > p:first-of-type::first-letter {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 3.4em;
+  font-weight: 400;
+  float: left;
+  line-height: 0.85;
+  margin: 0.1em 0.1em 0 0;
+  color: #1a2744;
+}
+
+/* Footer brand (which is dark on this site per light-mode.css editorial inversion) */
+.nav-logo-footer .logo-word-1 { font-style: italic; }
+
+/* Set the deep navy var that light-mode.css references for the footer */
+:root {
+  --brandBg-deep: #1a2744;
+}
