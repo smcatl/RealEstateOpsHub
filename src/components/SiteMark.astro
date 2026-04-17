@@ -1,0 +1,39 @@
+---
+/**
+ * SiteMark — realestateopshub
+ * Per-site override of stackbase's default bar-stack mark.
+ * The outer div keeps the .nav-logo-mark class so global.css 52x52
+ * dimensions apply. Per-site brand.css clears the default navy bg
+ * and stretches the SVG to fill.
+ */
+interface Props {
+  class?: string;
+  style?: string;
+}
+const { class: className = '', style } = Astro.props;
+---
+{style ? (
+  <div class:list={['nav-logo-mark', 'site-mark', className]} aria-hidden="true" style={style}>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="2" fill="#f2efe8"/>
+  <rect x="6" y="6" width="20" height="3" fill="#c9a84c"/>
+  <rect x="9" y="9" width="14" height="17" fill="#1a2744"/>
+  <rect x="11" y="12" width="2" height="14" fill="#f2efe8"/>
+  <rect x="15" y="12" width="2" height="14" fill="#f2efe8"/>
+  <rect x="19" y="12" width="2" height="14" fill="#f2efe8"/>
+  <rect x="6" y="26" width="20" height="2" fill="#c9a84c"/>
+</svg>
+  </div>
+) : (
+  <div class:list={['nav-logo-mark', 'site-mark', className]} aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="2" fill="#f2efe8"/>
+  <rect x="6" y="6" width="20" height="3" fill="#c9a84c"/>
+  <rect x="9" y="9" width="14" height="17" fill="#1a2744"/>
+  <rect x="11" y="12" width="2" height="14" fill="#f2efe8"/>
+  <rect x="15" y="12" width="2" height="14" fill="#f2efe8"/>
+  <rect x="19" y="12" width="2" height="14" fill="#f2efe8"/>
+  <rect x="6" y="26" width="20" height="2" fill="#c9a84c"/>
+</svg>
+  </div>
+)}
