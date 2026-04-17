@@ -7,7 +7,7 @@
     "network": "firstpromoter",
     "status": "active",
     "category": "all-in-one-marketing",
-    "notes": "Carried over from OperatorStack — VERIFY with GHL whether the same fp_ref code can be used for promoting from realestateopshub.com. Top 2026 pick for real estate lead funnels + AI follow-up automation."
+    "notes": "Carried over from OperatorStack \u2014 VERIFY with GHL whether the same fp_ref code can be used for promoting from realestateopshub.com. Top 2026 pick for real estate lead funnels + AI follow-up automation."
   },
   {
     "slug": "dealcheck",
@@ -27,7 +27,7 @@
     "network": "direct",
     "status": "pending",
     "category": "property-management",
-    "notes": "Dual structure — pays for leads AND 25% monthly sub commissions. One of the best lifetime programs for property managers. Apply: https://www.buildium.com/partners/"
+    "notes": "Dual structure \u2014 pays for leads AND 25% monthly sub commissions. One of the best lifetime programs for property managers. Apply: https://www.buildium.com/partners/"
   },
   {
     "slug": "carrot",
@@ -67,7 +67,7 @@
     "network": "direct",
     "status": "pending",
     "category": "deal-finder",
-    "notes": "Ongoing commissions on all customer renewals. Apply: https://birddogbot.com/affiliate"
+    "notes": "DEAD \u2014 site shows \"closed.php\". Consider removing from content. Was: 25% lifetime."
   },
   {
     "slug": "lofty",
@@ -77,7 +77,7 @@
     "network": "direct",
     "status": "pending",
     "category": "real-estate-crm",
-    "notes": "Commissions on MRR capped at 18 months per referral — NOT lifetime. Apply: https://www.lofty.com/partners"
+    "notes": "Commissions on MRR capped at 18 months per referral \u2014 NOT lifetime. Apply: https://www.lofty.com/partners"
   },
   {
     "slug": "dotloop",
@@ -93,7 +93,7 @@
     "slug": "kvcore",
     "name": "kvCORE",
     "url": "https://www.insiderealestate.com/kvcore/",
-    "commission": "$500–$2,000 bounty (one-time, enterprise)",
+    "commission": "$500\u2013$2,000 bounty (one-time, enterprise)",
     "network": "direct",
     "status": "pending",
     "category": "enterprise-crm",
@@ -103,7 +103,7 @@
     "slug": "appfolio",
     "name": "AppFolio",
     "url": "https://www.appfolio.com/",
-    "commission": "$500–$1,000 bounty (one-time, by onboarding size)",
+    "commission": "$500\u2013$1,000 bounty (one-time, by onboarding size)",
     "network": "direct",
     "status": "pending",
     "category": "property-management",
