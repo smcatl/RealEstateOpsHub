@@ -108,5 +108,41 @@
     "status": "pending",
     "category": "property-management",
     "notes": "High-ticket property management referral based on successful onboarding. Apply: https://www.appfolio.com/partners"
+  },
+  {
+    "slug": "munch-studio",
+    "name": "Munch Studio",
+    "url": "https://goto.munchstudio.com/B5zEM1",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Social Media"
+  },
+  {
+    "slug": "surveysparrow",
+    "name": "SurveySparrow",
+    "url": "https://surveysparrowinc.pxf.io/zzegVO",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Customer Feedback"
+  },
+  {
+    "slug": "thrivesparrow",
+    "name": "ThriveSparrow",
+    "url": "https://thrivesparrow.sjv.io/aN54qq",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "HR & Employee Engagement"
+  },
+  {
+    "slug": "melio",
+    "name": "Melio",
+    "url": "https://melio.sjv.io/bkDbo9",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Payments & Billing"
   }
 ]
