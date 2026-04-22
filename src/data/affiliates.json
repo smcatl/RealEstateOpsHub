@@ -20,96 +20,6 @@
     "notes": "Carried over from STRStack (fp_ref=stosh11). Popular property analysis tool with verified lifetime recurring. VERIFY same ID can be used on realestateopshub.com."
   },
   {
-    "slug": "buildium",
-    "name": "Buildium",
-    "url": "https://www.buildium.com/",
-    "commission": "25% recurring (lifetime) + $10 per qualified lead",
-    "network": "direct",
-    "status": "pending",
-    "category": "property-management",
-    "notes": "Dual structure \u2014 pays for leads AND 25% monthly sub commissions. One of the best lifetime programs for property managers. Apply: https://www.buildium.com/partners/"
-  },
-  {
-    "slug": "carrot",
-    "name": "Carrot",
-    "url": "https://carrot.com/",
-    "commission": "25% recurring (lifetime)",
-    "network": "direct",
-    "status": "pending",
-    "category": "investor-websites",
-    "notes": "Leader in high-converting real estate investor websites. Lifetime recurring on monthly plans. Apply: https://carrot.com/affiliates"
-  },
-  {
-    "slug": "liondesk",
-    "name": "LionDesk",
-    "url": "https://www.liondesk.com/",
-    "commission": "25% recurring (lifetime)",
-    "network": "direct",
-    "status": "pending",
-    "category": "real-estate-crm",
-    "notes": "Maintains lifetime recurring on CRM and marketing automation plans. Apply: https://www.liondesk.com/affiliate-program"
-  },
-  {
-    "slug": "realestatebees",
-    "name": "Real Estate Bees",
-    "url": "https://www.realestatebees.com/",
-    "commission": "Recurring (explicit lifetime)",
-    "network": "direct",
-    "status": "pending",
-    "category": "real-estate-tools",
-    "notes": "Explicitly offers 'lifetime recurring commissions' for all referred user purchases. Apply: https://www.realestatebees.com/affiliate-program"
-  },
-  {
-    "slug": "birddogbot",
-    "name": "BirdDogBot",
-    "url": "https://birddogbot.com/",
-    "commission": "Recurring (lifetime on renewals)",
-    "network": "direct",
-    "status": "pending",
-    "category": "deal-finder",
-    "notes": "DEAD \u2014 site shows \"closed.php\". Consider removing from content. Was: 25% lifetime."
-  },
-  {
-    "slug": "lofty",
-    "name": "Lofty (formerly Chime)",
-    "url": "https://www.lofty.com/",
-    "commission": "10% recurring (18-month cap)",
-    "network": "direct",
-    "status": "pending",
-    "category": "real-estate-crm",
-    "notes": "Commissions on MRR capped at 18 months per referral \u2014 NOT lifetime. Apply: https://www.lofty.com/partners"
-  },
-  {
-    "slug": "dotloop",
-    "name": "Dotloop",
-    "url": "https://www.dotloop.com/",
-    "commission": "$250 bounty (Visa gift card per team referral)",
-    "network": "direct",
-    "status": "pending",
-    "category": "transaction-management",
-    "notes": "Flat $250 Visa gift card per team referral. Apply: https://www.dotloop.com/partners"
-  },
-  {
-    "slug": "kvcore",
-    "name": "kvCORE",
-    "url": "https://www.insiderealestate.com/kvcore/",
-    "commission": "$500\u2013$2,000 bounty (one-time, enterprise)",
-    "network": "direct",
-    "status": "pending",
-    "category": "enterprise-crm",
-    "notes": "High-ticket enterprise platform. One-time bounty by tier. Apply: https://www.insiderealestate.com/partners/"
-  },
-  {
-    "slug": "appfolio",
-    "name": "AppFolio",
-    "url": "https://www.appfolio.com/",
-    "commission": "$500\u2013$1,000 bounty (one-time, by onboarding size)",
-    "network": "direct",
-    "status": "pending",
-    "category": "property-management",
-    "notes": "High-ticket property management referral based on successful onboarding. Apply: https://www.appfolio.com/partners"
-  },
-  {
     "slug": "munch-studio",
     "name": "Munch Studio",
     "url": "https://goto.munchstudio.com/B5zEM1",
@@ -144,5 +54,50 @@
     "network": "impact",
     "status": "active",
     "category": "Payments & Billing"
+  },
+  {
+    "slug": "aweber",
+    "name": "AWeber",
+    "url": "https://www.aweber.com/easy-email.htm?id=560455",
+    "commission": "Up to 50% recurring (lifetime)",
+    "network": "direct",
+    "status": "active",
+    "category": "email-marketing"
+  },
+  {
+    "slug": "invideo",
+    "name": "InVideo",
+    "url": "https://invideo.sjv.io/MX07zn",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Video & Content"
+  },
+  {
+    "slug": "sparrowdesk",
+    "name": "SparrowDesk",
+    "url": "https://sparrowdesk.pxf.io/AgmG9J",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Support & Helpdesk"
+  },
+  {
+    "slug": "omnisend",
+    "name": "Omnisend",
+    "url": "https://your.omnisend.com/n4RkQ6",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Email Marketing"
+  },
+  {
+    "slug": "retouch4me",
+    "name": "Retouch4me",
+    "url": "https://relu0u.pxf.io/rEGBZd",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Photo & Design"
   }
 ]
